@@ -8,3 +8,5 @@ Some Title
 
 .. include:: chapter3.rst
 
+
+:math:`\alpha\beta~\alpha~\beta`
